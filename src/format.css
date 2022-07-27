@@ -1,0 +1,20 @@
+.wrapper {
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 400px;
+}
+
+.wrapper-page {
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 325px;
+}
+
+.nav-thing {
+    padding-left: 5px;
+    padding-right: 5px;
+}
